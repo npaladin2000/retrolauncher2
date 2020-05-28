@@ -29,3 +29,11 @@ cmd = "emulationstation"
 [[apps]]
 name = "PPSSPP"
 cmd = "performance on; ppsspp; performance off"
+
+[[apps]]
+name = "Run Dr4St1c"
+cmd = "performance on; cd ~/drastic/; /opt/drastic/drastic; performance off"
+
+[[apps]]
+name = "Install Dr4st1c"
+cmd = "/roms/sh/install_Dr4st1c.sh
