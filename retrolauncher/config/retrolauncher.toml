@@ -32,7 +32,7 @@ cmd = "performance on; ppsspp; performance off"
 
 [[apps]]
 name = "Run Dr4St1c"
-cmd = "performance on; cd ~/drastic/; /opt/drastic/drastic; performance off"
+cmd = "/usr/bin/drastic/drastic.sh"
 
 [[apps]]
 name = "Install Dr4st1c"
